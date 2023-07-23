@@ -25,3 +25,9 @@ Lưu ý: Điểm theo nội dung tối đa là 8đ, 2đ còn lại là hỏi đ�
 20521384 - Hoàng Đình Hữu
 
 21521009 - Nguyễn Nguyên Khôi
+
+### Mô hình được chọn trong đồ án:
+
+Binary Independence Model (BIM)
+
+Vector Space Model (VSM)
